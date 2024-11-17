@@ -16,7 +16,7 @@ The repo is structured as follows :
 ## Environment Setup
 To set up the environment for this project, you will need Anaconda.
 To download Anaconda, please visit https://anaconda.org.
-After installation, run the following commands :
+After successful installation, run the following commands :
 ```
 conda env create -f environment.yml
 conda activate nanowaste
