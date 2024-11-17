@@ -1,0 +1,6 @@
+name: nanowaste
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /opt/homebrew/anaconda3/envs/nanowaste
