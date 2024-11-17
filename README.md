@@ -14,6 +14,6 @@ The repo is structured as follows :
 -   `scripts` contains the R scripts used to simulate, download and clean data.
 
 
-## Statement on LLM usage
+## Disclaimer
 
-LLMs were not used for this analysis. 
+Large language models were not used for this analysis. 
