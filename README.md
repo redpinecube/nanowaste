@@ -14,7 +14,7 @@ The repo is structured as follows :
 -   `scripts` contains the Python scripts used to simulate, download and clean data.
 
 ## Reproducilibity
-This project is an R project. For reproducibility purposes 
+This project is an R project. For reproducibility purposes, 
 please use the RStudio IDE. 
 
 ## Disclaimer
