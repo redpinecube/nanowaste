@@ -1,0 +1,20 @@
+---
+title: "The Influence of Microplastic Pollution on Marine Habitat Loss"
+author: 
+  - Tara Chakkithara
+thanks: "View code and data here : https://github.com/redpinecube/nanowaste"
+date: today
+date-format: long
+abstract: ""
+format: pdf
+number-sections: true
+toc: true
+bibliography: references.bib
+---
+# Introduction 
+# Data
+## Measurement
+# Model
+# Results
+# Discussion
+# Appendix 
