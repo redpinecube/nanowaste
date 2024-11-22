@@ -13,6 +13,8 @@ bibliography: references.bib
 ---
 # Introduction 
 # Data
+Data for this analysis was sourced from the National Oceanic and Atmospheric Administration of the United States [@citeData]. Statistical modelling and data cleaning was done using Python. Python was also used to create the visualizations, and the dashboard that accompanies this analysis [@citePython]. 
+
 ## Measurement
 # Model
 # Results
