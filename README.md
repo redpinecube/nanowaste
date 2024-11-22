@@ -11,7 +11,7 @@ The repo is structured as follows :
 -   `model` contains model. 
 -   `other` contains relevant literature and sketches.
 -   `paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
--   `scripts` contains the Python scripts used to simulate, download, clean, and test data.
+-   `scripts` contains the python scripts used to simulate, download, clean, and test data.
 
 ## Reproducibility
 To set up the environment for this project, you can use Anaconda.
