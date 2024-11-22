@@ -13,8 +13,8 @@ The repo is structured as follows :
 -   `paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
 -   `scripts` contains the Python scripts used to simulate, download and clean data.
 
-## Environment Setup
-To set up the environment for this project, you will need Anaconda.
+## Reproducibility
+To set up the environment for this project, you can use Anaconda.
 To download Anaconda, please visit https://anaconda.org.
 After successful installation, run the following commands :
 ```
@@ -24,4 +24,4 @@ conda activate nanowaste
 
 ## Disclaimer
 
-Large language models were not used in this analysis or paper write up. 
+LLMs were not used in this analysis.
