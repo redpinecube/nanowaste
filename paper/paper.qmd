@@ -15,8 +15,36 @@ bibliography: references.bib
 # Data
 Data for this analysis was sourced from the National Oceanic and Atmospheric Administration of the United States [@citeData]. Statistical modelling and data cleaning was done using Python. Python was also used to create the visualizations, and the dashboard that accompanies this analysis [@citePython]. 
 
+```{python}
+# clean data 
+
+```
+
+```{python}
+data['UNIT'].value_counts()
+```
+
+## Plastic Pollution Discrepancies By Ocean  
+```{python}
+ocean_data = data[data['OCEANS'].notna()]
+ocean_data['OCEANS'].unique()
+ocean_data = ocean_data[ocean_data['UNIT'] == "pieces/m3"]
+ocean_data = ocean_data.groupby(['OCEANS'])['MEASUREMEN'].mean().reset_index() 
+ocean_data
+```
+
+### Plastic Concentrations Near Beaches
+
+## Plastic Density By Sample
+
+## Microplastic Cluster Locations
+
+## Microplastic Trends From 
+
 ## Measurement
 # Model
+
+
 # Results
 # Discussion
 # Appendix 
